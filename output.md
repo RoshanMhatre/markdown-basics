@@ -143,5 +143,4 @@ console.log(name);
 - If you reached here, Great!!!!!!!!
 - A star would be appreciated😍
 
-<p>If you have many sections with large amount of data in it, you can use this</p>
 </details>
