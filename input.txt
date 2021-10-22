@@ -108,3 +108,40 @@ void add(int a, int b){
 | :------------- | :------------: | ------------------------: |
 | Left Alignment | Center Aligned |             Right aligned |
 | Roshan         |     Mhatre     | officialroshanm@gmail.com |
+
+---
+
+<!-- ts -->
+
+```ts
+This is used for Code highlighting
+const name = "Roshan Mhatre";
+
+console.log(name);
+```
+
+---
+
+<!-- Diff -->
+
+```diff
+This is used to show difference
+- const name = "Roshan Mhatree";
++ const name = "Roshan Mhatre";
+
+console.log(name);
+```
+
+---
+
+<!-- Summary -->
+
+<details>
+<summary>Click to view details</summary>
+
+- This is used to wrap a large amount of data or section
+- If you reached here, Great!!!!!!!!
+- A star would be appreciated😍
+
+<p>If you have many sections with large amount of data in it, you can use this</p>
+</details>
