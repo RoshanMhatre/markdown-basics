@@ -48,9 +48,9 @@ _This entire line will be in italics._
 
 <!-- Links -->
 
-[mailwithtitle](link_without_title.com)
+[mailwithouttitle](link_without_title.com)
 
-[mailwithouttitle](this.com "link_with_title")
+[mailwithtitle](this.com "link_with_title")
 
 ---
 
