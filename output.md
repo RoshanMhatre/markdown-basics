@@ -74,7 +74,7 @@ _This entire line will be in italics._
 
 <!-- Inline code block -->
 
-`<p>This is a inline code block</p> `
+`<p>This is an inline code block</p> `
 
 ---
 
