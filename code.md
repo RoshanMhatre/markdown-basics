@@ -42,15 +42,15 @@ _This entire line will be in italics._
 
 <!-- Block Quotes -->
 
-> I am inside a block quote
+> I am inside a block quote which is used to give context
 
 ---
 
 <!-- Links -->
 
-[fake mail](link_without_title.com)
+[mailwithtitle](link_without_title.com)
 
-[fake mail - 2](this.com "link_with_title")
+[mailwithouttitle](this.com "link_with_title")
 
 ---
 
@@ -74,7 +74,7 @@ _This entire line will be in italics._
 
 <!-- Inline code block -->
 
-`<p>This is a inline code block</p>`
+`<p>This is a inline code block</p> `
 
 ---
 
@@ -104,7 +104,7 @@ void add(int a, int b){
 
 <!-- Tables -->
 
-| Name  | Email            |
-| ----- | ---------------- |
-| mail  | fakeemail@xyz.com     |
-| Table | tables in github |
+| First Name     |   Last Name    |                     Email |
+| :------------- | :------------: | ------------------------: |
+| Left Alignment | Center Aligned |             Right aligned |
+| Roshan         |     Mhatre     | officialroshanm@gmail.com |
